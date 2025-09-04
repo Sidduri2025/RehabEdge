@@ -12,3 +12,13 @@ Camera-based posture correction AI
 Doctor’s dashboard with progress history
 
 Secure data storage and sharing
+
+## **User Stories**
+
+As a patient, I want reminders so that I do not miss therapy.
+
+ Acceptance: The mobile app sends daily notifications.
+
+As a doctor, I want to see a patient's exercise history so that I can check recovery progress.
+
+Acceptance: A web or mobile dashboard shows weekly score trends.
