@@ -21,4 +21,4 @@ As a patient, I want reminders so that I do not miss therapy.
 
 As a doctor, I want to see a patient's exercise history so that I can check recovery progress.
 
-Acceptance: A web or mobile dashboard shows weekly score trends.
+Acceptance: A web or mobile dashboard shows weekly score trend.
