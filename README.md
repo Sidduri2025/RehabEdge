@@ -22,3 +22,13 @@ As a patient, I want reminders so that I do not miss therapy.
 As a doctor, I want to see a patient's exercise history so that I can check recovery progress.
 
 Acceptance: A web or mobile dashboard shows weekly score trend.
+
+## ** Tech Stack (proposed)**
+
+Mobile App: Android (Java/Kotlin)
+
+Web App: HTML/CSS/JS (with future React/Node option)
+
+AI Component: Edge AI model for posture detection (future integration)
+
+Database: Cloud or local database for patient/doctor data
