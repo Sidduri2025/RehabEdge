@@ -37,4 +37,8 @@ Database: Cloud or local database for patient/doctor data
 
 Added Project Charter wiki page with problem, motivation, and required functionality
 
+## Created About the Developers wiki page                         
+
+Added About the Developers wiki page with usernames, GitHub links, and strengths
+
 
