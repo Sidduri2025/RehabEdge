@@ -41,4 +41,7 @@ Added Project Charter wiki page with problem, motivation, and required functiona
 
 Added About the Developers wiki page with usernames, GitHub links, and strengths
 
+## Updated Home wiki page
+Linked Project Charter and About the Developers pages from the Home wiki page
+
 
