@@ -32,3 +32,8 @@ Web App: HTML/CSS/JS (with future React/Node option)
 AI Component: Edge AI model for posture detection (future integration)
 
 Database: Cloud or local database for patient/doctor data
+
+##** Created Project Charter wiki page**
+
+Added Project Charter wiki page with problem, motivation, and required functionality
+
