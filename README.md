@@ -44,4 +44,7 @@ Added About the Developers wiki page with usernames, GitHub links, and strengths
 ## Updated Home wiki page
 Linked Project Charter and About the Developers pages from the Home wiki page
 
+## Formatted wiki pages     
+Improved formatting in Project Charter and About the Developers pages (headings, lists, links)
+
 
