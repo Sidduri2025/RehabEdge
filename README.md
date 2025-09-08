@@ -47,4 +47,7 @@ Linked Project Charter and About the Developers pages from the Home wiki page
 ## Formatted wiki pages     
 Improved formatting in Project Charter and About the Developers pages (headings, lists, links)
 
+## Project Charter Modification
+Modified project charter to align with client’s updated requirements
+
 
