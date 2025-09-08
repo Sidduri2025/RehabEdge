@@ -56,4 +56,7 @@ Updated project documentation based on client suggestions and clarified delivera
 ## Discussion of Project Requirements with Client
 Attended client meeting to discuss project requirements and gathered feedback
 
+## Documentation Formatting Update
+Fixed formatting issues in documentation
+
 
