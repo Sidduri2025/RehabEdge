@@ -50,4 +50,7 @@ Improved formatting in Project Charter and About the Developers pages (headings,
 ## Project Charter Modification
 Modified project charter to align with client’s updated requirements
 
+## Improved documentation structure based on suggestions
+Updated project documentation based on client suggestions and clarified deliverables
+
 
