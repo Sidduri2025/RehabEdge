@@ -69,4 +69,14 @@ Shared meeting summary with team for next steps.
 
 Identified potential challenges for upcoming development tasks.
 
+## Limitations
+
+The app prototype has not been implemented yet.
+
+Limited access to real client data for testing.
+
+No integration with external APIs at this stage.
+
+UI/UX designs are still in the planning phase.
+
 
