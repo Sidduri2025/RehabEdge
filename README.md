@@ -88,3 +88,13 @@ Difficulty in defining database schema without real data.
 Limited team experience with specific technologies.
 
 Time constraints for research and initial planning.
+
+## Constraints
+
+Project scope may change based on client feedback.
+
+Limited testing environment since the app is not developed.
+
+Dependence on team members’ availability for collaborative tasks.
+
+Initial project decisions must rely on assumptions due to missing data.
