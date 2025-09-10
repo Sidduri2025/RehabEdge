@@ -79,4 +79,12 @@ No integration with external APIs at this stage.
 
 UI/UX designs are still in the planning phase.
 
+## Problems
 
+Uncertainty about exact functional requirements from client.
+
+Difficulty in defining database schema without real data.
+
+Limited team experience with specific technologies.
+
+Time constraints for research and initial planning.
