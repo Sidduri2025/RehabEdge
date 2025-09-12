@@ -98,3 +98,14 @@ Limited testing environment since the app is not developed.
 Dependence on team members’ availability for collaborative tasks.
 
 Initial project decisions must rely on assumptions due to missing data.
+
+##  Documented Client Meeting 2 Outcomes
+
+Added notes from Client Meeting 2 to project documentation
+ ## Details:
+
+Recorded key discussion points from the second client meeting
+
+Captured clarifications about system features and expected deliverables
+
+Shared meeting summary in the team wiki for reference
