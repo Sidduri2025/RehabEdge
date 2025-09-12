@@ -119,3 +119,15 @@ Wrote a clear problem statement based on client feedback
 Described the challenges faced by patients and doctors
 
 Linked the section from the Home wiki page
+
+##Discussion on Doctor Dashboard.
+
+Discussed Doctor Dashboard Feature
+
+Discussed potential Doctor Dashboard feature with team
+
+Had an internal discussion about adding a doctor’s dashboard to RehabEdge
+
+Talked about showing patient progress history, weekly trends, and alerts
+
+No content created or added yet — only brainstorming stage
