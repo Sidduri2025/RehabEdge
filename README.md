@@ -120,7 +120,7 @@ Described the challenges faced by patients and doctors
 
 Linked the section from the Home wiki page
 
-##Discussion on Doctor Dashboard.
+## Discussion on Doctor Dashboard.
 
 Discussed Doctor Dashboard Feature
 
