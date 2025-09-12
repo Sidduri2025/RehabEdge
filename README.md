@@ -109,3 +109,13 @@ Recorded key discussion points from the second client meeting
 Captured clarifications about system features and expected deliverables
 
 Shared meeting summary in the team wiki for reference
+
+## Created Problem Statement Section
+
+Added Problem Statement to Project Charter wiki page
+
+Wrote a clear problem statement based on client feedback
+
+Described the challenges faced by patients and doctors
+
+Linked the section from the Home wiki page
