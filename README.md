@@ -131,3 +131,13 @@ Had an internal discussion about adding a doctor’s dashboard to RehabEdge
 Talked about showing patient progress history, weekly trends, and alerts
 
 No content created or added yet — only brainstorming stage
+
+## Drafted Functional Requirements
+
+Created Functional Requirements page in wiki
+
+Listed core requirements for patient and doctor users
+
+Added acceptance criteria for each requirement
+
+Linked the page from the Home wiki page
