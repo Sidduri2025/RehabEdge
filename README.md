@@ -141,3 +141,8 @@ Listed core requirements for patient and doctor users
 Added acceptance criteria for each requirement
 
 Linked the page from the Home wiki page
+
+## Explored Technology Options
+
+Discussed integrating AI-powered posture detection using the device camera.
+Considered using edge computing to enable faster processing and decided to support both mobile and web platforms for wider reach.
