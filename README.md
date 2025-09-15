@@ -152,3 +152,6 @@ Analyzed Potential Challenges for Doctors
 Discussed difficulties doctors might face like limited real-time feedback and needing reliable progress reports.
 Planned to design features that simplify monitoring.
 
+## Discussed Project Concept and Feasibility
+Held a team discussion on the idea of creating a remote physical therapy app using Edge AI.
+Talked about possible target users (patients and doctors) and overall goals.
