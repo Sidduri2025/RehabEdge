@@ -155,3 +155,8 @@ Planned to design features that simplify monitoring.
 ## Discussed Project Concept and Feasibility
 Held a team discussion on the idea of creating a remote physical therapy app using Edge AI.
 Talked about possible target users (patients and doctors) and overall goals.
+
+## Identified Key User Roles and Needs
+
+Brainstormed two primary user roles: patients and doctors.
+Listed their needs such as reminders, posture tracking, and progress monitoring.
