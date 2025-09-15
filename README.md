@@ -146,3 +146,8 @@ Linked the page from the Home wiki page
 
 Discussed integrating AI-powered posture detection using the device camera.
 Considered using edge computing to enable faster processing and decided to support both mobile and web platforms for wider reach.
+
+## Challenges faced by doctors
+Analyzed Potential Challenges for Doctors
+Discussed difficulties doctors might face like limited real-time feedback and needing reliable progress reports.
+Planned to design features that simplify monitoring.
