@@ -178,4 +178,11 @@ Step 4: Session is saved with posture accuracy score and completion time.
 
 Step 5: Patient can view progress history and improvement charts in the app.
 
+## Doctor Journey
+
+Step 1: Doctor logs into the web dashboard.
+Step 2: Views list of assigned patients and their weekly exercise summaries.
+Step 3: Checks posture accuracy trends, missed sessions, and recovery progress.
+Step 4: Adds feedback or updates therapy plan if needed.
+Step 5: Sends encouragement or instructions to the patient through the app.
 
