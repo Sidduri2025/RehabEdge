@@ -162,13 +162,10 @@ Brainstormed two primary user roles: patients and doctors.
 Listed their needs such as reminders, posture tracking, and progress monitoring.
 
 ## Planned Project Methodology
-Decided to follow an iterative development approach for building the app.
 
-## Created Rough Timeline
-Made a basic schedule for design, development, and testing phases.
+Documented the step-by-step approach the team will follow, including requirement gathering, design, development, testing, and evaluation phases to keep the project organized and on schedule.
 
-## Assigned Team Roles
-Discussed and noted down roles for each team member.
+
 
 ## Patient Journey
 Step 1: Patient receives a daily reminder notification to start therapy session.
