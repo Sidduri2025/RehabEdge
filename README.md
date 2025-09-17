@@ -172,8 +172,13 @@ Discussed and noted down roles for each team member.
 
 ## Patient Journey
 Step 1: Patient receives a daily reminder notification to start therapy session.
+
 Step 2: Opens the mobile app and performs guided exercises.
+
 Step 3: Camera-based AI analyzes posture in real time and provides corrective feedback.
+
 Step 4: Session is saved with posture accuracy score and completion time.
+
 Step 5: Patient can view progress history and improvement charts in the app.
+
 
