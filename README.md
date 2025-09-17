@@ -160,3 +160,14 @@ Talked about possible target users (patients and doctors) and overall goals.
 
 Brainstormed two primary user roles: patients and doctors.
 Listed their needs such as reminders, posture tracking, and progress monitoring.
+
+## Planned Project Methodology
+Decided to follow an iterative development approach for building the app.
+
+## Created Rough Timeline
+Made a basic schedule for design, development, and testing phases.
+
+## Assigned Team Roles
+Discussed and noted down roles for each team member.
+
+
