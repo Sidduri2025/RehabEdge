@@ -190,3 +190,11 @@ Step 4: Adds feedback or updates therapy plan if needed.
 
 Step 5: Sends encouragement or instructions to the patient through the app.
 
+## Possible Risks
+
+Technical Complexity: Implementing real-time posture detection using camera-based AI may be more complex than expected.
+
+Data Privacy Concerns: Handling sensitive health data requires strong security measures and compliance with regulations.
+
+Limited Device Compatibility: The AI feature might not work smoothly on all mobile devices, especially older ones.
+
