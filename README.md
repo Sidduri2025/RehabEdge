@@ -214,4 +214,8 @@ The system SHALL authenticate user credentials with encryption.
 
 12.The system SHOULD generate visual progress reports for both patients and doctors.
 
+## Prototype      
+## Patient Reminder System
+This prototype focuses on helping patients stay consistent with their therapy. The mobile app will send daily reminders for exercises, which can be customized based on patient schedules.
+The goal is to ensure patients do not miss sessions and can maintain a regular routine.
 
