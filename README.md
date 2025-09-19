@@ -198,3 +198,20 @@ Data Privacy Concerns: Handling sensitive health data requires strong security m
 
 Limited Device Compatibility: The AI feature might not work smoothly on all mobile devices, especially older ones.
 
+## Functional Requirements
+## Mandatory Requirements (System SHALL)
+The system SHALL allow patients to create and manage accounts securely.
+
+The system SHALL allow doctors to create and manage accounts securely.
+
+The system SHALL authenticate user credentials with encryption.
+
+## Recommended Requirements (System SHOULD)
+
+10.The system SHOULD allow patients to receive corrective feedback in real-time during exercises.
+
+11.The system SHOULD allow Doctors to set personalized exercise plans per patient.
+
+12.The system SHOULD generate visual progress reports for both patients and doctors.
+
+
