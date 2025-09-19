@@ -229,3 +229,9 @@ AI posture detection and correction
 Progress tracking dashboard for doctors
 
 Secure patient data storage
+
+## Target Users
+
+Patients recovering from injuries or surgeries
+
+Doctors and physiotherapists who track patient progress
