@@ -235,3 +235,13 @@ Secure patient data storage
 Patients recovering from injuries or surgeries
 
 Doctors and physiotherapists who track patient progress
+
+## Hand Posture Data Collection 
+
+Collected sample datasets of hand postures for potential AI posture detection
+
+Added notes on challenges in capturing accurate hand posture data for patients
+
+Updated functional requirements to include support for hand posture analysis in exercises
+
+Explored feasibility of using hand posture recognition in RehabEdge therapy sessions
