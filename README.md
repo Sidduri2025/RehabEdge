@@ -253,3 +253,11 @@ Added patient use case diagram (Perform Exercise Session, View Progress, Receive
 Created patient journey flow showing therapy reminders, exercise, and progress tracking
 
 Drafted functional requirements for patient account creation and daily notifications
+
+## Doctor-Focused Updates
+
+Added doctor use case diagram (Assign Exercise Plan, Monitor Progress, Provide Feedback)
+
+Created doctor journey flow showing dashboard usage and patient monitoring
+
+Drafted functional requirements for doctor account creation and therapy plan updates
