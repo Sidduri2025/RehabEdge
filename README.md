@@ -245,3 +245,11 @@ Added notes on challenges in capturing accurate hand posture data for patients
 Updated functional requirements to include support for hand posture analysis in exercises
 
 Explored feasibility of using hand posture recognition in RehabEdge therapy sessions
+
+## Work on Patient Feature
+
+Added patient use case diagram (Perform Exercise Session, View Progress, Receive Reminders)
+
+Created patient journey flow showing therapy reminders, exercise, and progress tracking
+
+Drafted functional requirements for patient account creation and daily notifications
