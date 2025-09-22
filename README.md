@@ -261,3 +261,11 @@ Added doctor use case diagram (Assign Exercise Plan, Monitor Progress, Provide F
 Created doctor journey flow showing dashboard usage and patient monitoring
 
 Drafted functional requirements for doctor account creation and therapy plan updates
+
+## Client Meeting Outcomes
+
+Added notes from client meeting discussing MVP scope for RehabEdge
+
+Documented decisions on mandatory, recommended, and optional requirements for MVP
+
+Updated functional requirements for patient and doctor accounts based on client feedback
