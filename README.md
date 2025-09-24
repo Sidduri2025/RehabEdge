@@ -269,3 +269,9 @@ Added notes from client meeting discussing MVP scope for RehabEdge
 Documented decisions on mandatory, recommended, and optional requirements for MVP
 
 Updated functional requirements for patient and doctor accounts based on client feedback
+
+## Database Schema Draft   
+
+Drafted initial database schema with tables for Patients, Doctors, Exercises, and Progress
+
+Added ER diagram for patient-doctor relationship
