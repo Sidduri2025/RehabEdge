@@ -275,3 +275,9 @@ Updated functional requirements for patient and doctor accounts based on client 
 Drafted initial database schema with tables for Patients, Doctors, Exercises, and Progress
 
 Added ER diagram for patient-doctor relationship
+
+## Modified Functional Requirements
+
+Updated functional requirements to include patient reminders, doctor dashboard reporting, and real-time corrective feedback.
+
+Refined acceptance criteria for both patient and doctor roles.
