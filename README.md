@@ -281,3 +281,9 @@ Added ER diagram for patient-doctor relationship
 Updated functional requirements to include patient reminders, doctor dashboard reporting, and real-time corrective feedback.
 
 Refined acceptance criteria for both patient and doctor roles.
+
+## Modified Use Cases
+
+Updated patient use case diagram: Added “Receive Reminders” and “View Progress History”.
+
+Updated doctor use case diagram: Added “Assign Exercise Plan” and “Provide Feedback”.
