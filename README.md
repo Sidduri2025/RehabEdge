@@ -287,3 +287,9 @@ Refined acceptance criteria for both patient and doctor roles.
 Updated patient use case diagram: Added “Receive Reminders” and “View Progress History”.
 
 Updated doctor use case diagram: Added “Assign Exercise Plan” and “Provide Feedback”.
+
+## Convolutional Neural Networks (CNNs) for Hand Gesture Recognition
+
+Can classify static hand postures (like fist, open palm, pointing).
+
+Trained on image datasets of patient hand positions.
