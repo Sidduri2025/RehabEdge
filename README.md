@@ -309,3 +309,9 @@ RehabEdge deals with sensitive health data (video, posture, movements).
 With Edge AI, all processing happens locally on the phone.
 
 No need to upload videos to external servers.
+
+## Works Without Internet
+
+Many patients (especially elderly) may not always have stable internet.
+
+Edge AI allows the app to work offline, still tracking posture and counting exercises.
