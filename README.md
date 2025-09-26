@@ -293,3 +293,11 @@ Updated doctor use case diagram: Added “Assign Exercise Plan” and “Provide
 Can classify static hand postures (like fist, open palm, pointing).
 
 Trained on image datasets of patient hand positions.
+
+## Real-time Posture Correction
+
+Patients do exercises in front of their phone camera.
+
+Edge AI model (like MediaPipe or TensorFlow Lite) detects joint/hand positions instantly.
+
+App gives immediate feedback (“straighten your back”, “lift your arm higher”) without waiting for cloud processing.
