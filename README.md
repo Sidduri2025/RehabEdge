@@ -315,3 +315,9 @@ No need to upload videos to external servers.
 Many patients (especially elderly) may not always have stable internet.
 
 Edge AI allows the app to work offline, still tracking posture and counting exercises.
+
+## Personalized Feedback
+
+Edge AI can learn from patient’s past performance data stored locally.
+
+The app can adapt recommendations (e.g., if the patient struggles with one movement, it highlights modifications).
