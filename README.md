@@ -301,3 +301,11 @@ Patients do exercises in front of their phone camera.
 Edge AI model (like MediaPipe or TensorFlow Lite) detects joint/hand positions instantly.
 
 App gives immediate feedback (“straighten your back”, “lift your arm higher”) without waiting for cloud processing.
+
+## Privacy & Security
+
+RehabEdge deals with sensitive health data (video, posture, movements).
+
+With Edge AI, all processing happens locally on the phone.
+
+No need to upload videos to external servers.
