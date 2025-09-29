@@ -324,3 +324,6 @@ The app can adapt recommendations (e.g., if the patient struggles with one movem
 
 
 RehabEdge uses a pose estimation algorithm powered by edge AI to identify and analyze a patient’s body posture in real time during physical therapy exercises
+
+## Feedback for patients
+The goal is to ensure that patients perform movements correctly and safely while receiving immediate feedback.
