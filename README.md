@@ -330,3 +330,5 @@ The goal is to ensure that patients perform movements correctly and safely while
 
 ## Real-Time Corrective Feedback
 If posture deviation is detected, the system immediately provides corrective feedback such as “Straighten your back” or “Raise your arm higher.”
+
+* The device camera captures a live video stream of the patient performing the exercise. Each video frame is processed individually for posture analysis.
