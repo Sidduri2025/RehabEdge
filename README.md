@@ -321,3 +321,6 @@ Edge AI allows the app to work offline, still tracking posture and counting exer
 Edge AI can learn from patient’s past performance data stored locally.
 
 The app can adapt recommendations (e.g., if the patient struggles with one movement, it highlights modifications).
+
+
+RehabEdge uses a pose estimation algorithm powered by edge AI to identify and analyze a patient’s body posture in real time during physical therapy exercises
