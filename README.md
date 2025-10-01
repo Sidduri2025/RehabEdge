@@ -337,5 +337,7 @@ RehabEdge uses a pose estimation algorithm powered by edge AI to identify and an
  ## 1.	Performance
 	Edge AI device should analyze posture and give feedback quickly.
 	Reminders should be delivered reliably and on schedule
+## 2. Security
+	Data captured by the Edge AI device (video, posture data) must be encrypted before being sent to the app or server.
 
 
