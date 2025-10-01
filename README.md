@@ -336,5 +336,6 @@ RehabEdge uses a pose estimation algorithm powered by edge AI to identify and an
  ##   Non-Functional Requirements
  ## 1.	Performance
 	Edge AI device should analyze posture and give feedback quickly.
+	Reminders should be delivered reliably and on schedule
 
 
