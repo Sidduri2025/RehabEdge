@@ -341,6 +341,8 @@ RehabEdge uses a pose estimation algorithm powered by edge AI to identify and an
 	Data captured by the Edge AI device (video, posture data) must be encrypted before being sent to the app or server.
  ## 3. Fast response
     Mobile app should load quickly and feel responsive. 
+
+ Described approach for sending reminders at fixed/custom times
 	
 
 
