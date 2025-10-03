@@ -343,6 +343,8 @@ RehabEdge uses a pose estimation algorithm powered by edge AI to identify and an
     Mobile app should load quickly and feel responsive. 
 
  Described approach for sending reminders at fixed/custom times
+
+ Added use case in wiki for "Receive Reminders"
 	
 
 
