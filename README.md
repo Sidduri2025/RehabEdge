@@ -345,6 +345,8 @@ RehabEdge uses a pose estimation algorithm powered by edge AI to identify and an
  Described approach for sending reminders at fixed/custom times
 
  Added use case in wiki for "Receive Reminders"
+
+ Researched MediaPipe/TensorFlow Lite for edge AI
 	
 
 
