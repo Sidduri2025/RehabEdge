@@ -347,6 +347,8 @@ RehabEdge uses a pose estimation algorithm powered by edge AI to identify and an
  Added use case in wiki for "Receive Reminders"
 
  Researched MediaPipe/TensorFlow Lite for edge AI
+
+ Planned weekly progress trend reports
 	
 
 
