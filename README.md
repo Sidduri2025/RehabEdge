@@ -355,3 +355,5 @@ RehabEdge uses a pose estimation algorithm powered by edge AI to identify and an
  Updated Reminder System Description for Reliability
 
  Documented Offline Sync and Crash Recovery Behavior
+
+Added Stability & Reliability Section to Non-Functional Requirements
