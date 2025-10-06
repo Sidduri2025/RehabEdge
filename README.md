@@ -351,6 +351,5 @@ RehabEdge uses a pose estimation algorithm powered by edge AI to identify and an
  Planned weekly progress trend reports
 
  Added Test Plan Draft for Stability and Reliability
-	
 
-
+ Updated Reminder System Description for Reliability
