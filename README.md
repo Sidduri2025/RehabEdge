@@ -359,3 +359,5 @@ RehabEdge uses a pose estimation algorithm powered by edge AI to identify and an
 Added Stability & Reliability Section to Non-Functional Requirements
 
 Added detailed Non-Functional Requirements section including performance, security, and reliability criteria
+
+Created a separate wiki page for Non-Functional Requirements.
