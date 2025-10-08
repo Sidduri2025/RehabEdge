@@ -363,3 +363,5 @@ Added detailed Non-Functional Requirements section including performance, securi
 Created a separate wiki page for Non-Functional Requirements.
 
 Updated Functional Requirements to include Edge AI-based posture feedback
+
+Added Stability & Reliability Test Plan draft to ensure consistent app performance
