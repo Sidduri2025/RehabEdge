@@ -361,3 +361,5 @@ Added Stability & Reliability Section to Non-Functional Requirements
 Added detailed Non-Functional Requirements section including performance, security, and reliability criteria
 
 Created a separate wiki page for Non-Functional Requirements.
+
+Updated Functional Requirements to include Edge AI-based posture feedback
