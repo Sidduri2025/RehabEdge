@@ -357,3 +357,5 @@ RehabEdge uses a pose estimation algorithm powered by edge AI to identify and an
  Documented Offline Sync and Crash Recovery Behavior
 
 Added Stability & Reliability Section to Non-Functional Requirements
+
+Added detailed Non-Functional Requirements section including performance, security, and reliability criteria
