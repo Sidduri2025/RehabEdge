@@ -365,3 +365,6 @@ Created a separate wiki page for Non-Functional Requirements.
 Updated Functional Requirements to include Edge AI-based posture feedback
 
 Added Stability & Reliability Test Plan draft to ensure consistent app performance
+
+
+Each session stores:Exercise name, Duration, Posture accuracy score (e.g., 85%), Time and date
