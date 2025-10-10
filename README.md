@@ -373,3 +373,5 @@ When a patient starts an exercise, the phone’s camera captures their movements
 The Edge AI model (running on the device, not cloud) analyzes this video feed in real time.
 
 The AI model uses key points (like shoulders, elbows, knees, etc.) to calculate posture accuracy.
+
+It detects body or hand posture, joint angles, and whether movements match the correct form.
