@@ -379,6 +379,7 @@ It detects body or hand posture, joint angles, and whether movements match the c
 ## 1. Performance
 
 o The RehabEdge AI module should analyze posture and give corrective feedback within 1 second of detecting an incorrect movement.
+* The mobile app should launch within 3 seconds on standard Android devices (Android 10 or later)
 
 ## 2. Security
 
