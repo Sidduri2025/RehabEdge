@@ -379,3 +379,7 @@ It detects body or hand posture, joint angles, and whether movements match the c
 ## 1. Performance
 
 o The RehabEdge AI module should analyze posture and give corrective feedback within 1 second of detecting an incorrect movement.
+
+## 2. Security
+
+o All posture and video data must be encrypted using AES-256 before transmission to the app or server
