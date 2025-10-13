@@ -375,3 +375,7 @@ The Edge AI model (running on the device, not cloud) analyzes this video feed in
 The AI model uses key points (like shoulders, elbows, knees, etc.) to calculate posture accuracy.
 
 It detects body or hand posture, joint angles, and whether movements match the correct form.
+
+## 1. Performance
+
+o The RehabEdge AI module should analyze posture and give corrective feedback within 1 second of detecting an incorrect movement.
