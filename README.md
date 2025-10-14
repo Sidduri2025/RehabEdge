@@ -384,3 +384,4 @@ o The RehabEdge AI module should analyze posture and give corrective feedback wi
 ## 2. Security
 
 o All posture and video data must be encrypted using AES-256 before transmission to the app or server
+o Daily reminders must be delivered with 99% reliability at the scheduled time.
