@@ -390,3 +390,6 @@ o Daily reminders must be delivered with 99% reliability at the scheduled time
 
 o If the internet connection is lost, the RehabEdge app must continue operating offline and automatically sync results within 10 minutes of reconnection.
 
+## Availability
+
+o The doctor dashboard should maintain 99.5% uptime monthly to ensure continuous access.
