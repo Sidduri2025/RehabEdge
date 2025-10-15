@@ -394,6 +394,7 @@ o If the internet connection is lost, the RehabEdge app must continue operating 
 ## Availability
 
 o The doctor dashboard should maintain 99.5% uptime monthly to ensure continuous access.
+
 o Reminder notifications must succeed 99% of the time
 
 
