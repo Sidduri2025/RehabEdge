@@ -404,3 +404,5 @@ o Added Local Data Recording for Offline Availability
 Enhanced Reminder System Reliability
 
 Documented Reminder System reliability improvements under Non-Functional Requirements section.
+
+Updated Non-Functional Requirements wiki to include uptime tracking metrics.
