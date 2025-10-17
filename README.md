@@ -397,4 +397,7 @@ o The doctor dashboard should maintain 99.5% uptime monthly to ensure continuous
 
 o Reminder notifications must succeed 99% of the time
 
+## Usability
+
+o Added Local Data Recording for Offline Availability
 
