@@ -412,3 +412,5 @@ Researched publicly available datasets for human and hand posture detection suit
 Created a plan for collecting sample exercise posture data from patients.
 
 Organized dataset into labeled folders for training (train/test/validation splits).
+
+Collected sample images of hand postures (open palm, closed fist, pointing).
