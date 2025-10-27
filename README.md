@@ -406,3 +406,5 @@ Enhanced Reminder System Reliability
 Documented Reminder System reliability improvements under Non-Functional Requirements section.
 
 Updated Non-Functional Requirements wiki to include uptime tracking metrics.
+
+Researched publicly available datasets for human and hand posture detection suitable for Edge AI models
