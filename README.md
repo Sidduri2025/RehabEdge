@@ -418,3 +418,5 @@ Collected sample images of hand postures (open palm, closed fist, pointing).
 Edge AI triggers corrective suggestions when posture angle exceeds threshold.
 
 Standardized recorded values like duration, accuracy, and repetitions for consistent progress tracking
+
+Used patient posture keypoints to compute angular deviation and overall session accuracy.
