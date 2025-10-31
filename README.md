@@ -426,3 +426,5 @@ Trend Analysis will analyze the  patient session data to calculate progress perc
 -u root specifies that you are logging in as the root user.
 
 -p tells MySQL to prompt for your password.
+
+Enter your MySQL root password and press Enter.
