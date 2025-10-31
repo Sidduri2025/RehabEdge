@@ -422,3 +422,5 @@ Standardized recorded values like duration, accuracy, and repetitions for consis
 Used patient posture keypoints to compute angular deviation and overall session accuracy.
 
 Trend Analysis will analyze the  patient session data to calculate progress percentages and visualize trends.
+
+-p tells MySQL to prompt for your password.
