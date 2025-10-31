@@ -311,7 +311,7 @@ With Edge AI, all processing happens locally on the phone.
 No need to upload videos to external servers.
 
 ## Works Without Internet
-
+-u root specifies that you are logging in as the root user.
 Many patients (especially elderly) may not always have stable internet.
 
 Edge AI allows the app to work offline, still tracking posture and counting exercises.
