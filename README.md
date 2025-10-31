@@ -423,4 +423,6 @@ Used patient posture keypoints to compute angular deviation and overall session 
 
 Trend Analysis will analyze the  patient session data to calculate progress percentages and visualize trends.
 
+-u root specifies that you are logging in as the root user.
+
 -p tells MySQL to prompt for your password.
