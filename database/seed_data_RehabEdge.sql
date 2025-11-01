@@ -99,7 +99,7 @@ INSERT INTO PatientExercisePlan VALUES
 (401,201,101,301,'Mon,Wed,Fri',30,'Warm up 5 min; stop if sharp pain'),
 (402,202,102,302,'Tue,Thu,Sat',25,'Target RPE 6/10; focus on form');
 
--- 6) Session (includes DeviceData fields)
+-- 6) Session
 CREATE TABLE Session (
   session_id INT PRIMARY KEY,
   patient_id INT NOT NULL,
