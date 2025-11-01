@@ -428,3 +428,6 @@ Trend Analysis will analyze the  patient session data to calculate progress perc
 -p tells MySQL to prompt for your password.
 
 Enter your MySQL root password and press Enter.
+
+CREATE DATABASE rehabedge;
+USE rehabedge;
