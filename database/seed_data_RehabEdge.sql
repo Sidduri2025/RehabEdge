@@ -81,25 +81,8 @@ INSERT INTO Exercise VALUES
 (301,'Shoulder External Rotation','TheraBand rotation to improve shoulder mobility','Shoulder','Moderate','pose-v2.1-shoulder'),
 (302,'Quad Sets','Isometric quad activation for knee stability','Knee','Easy','pose-v2.1-knee');
 
--- 5) PatientExercisePlan
-CREATE TABLE PatientExercisePlan (
-  plan_id INT PRIMARY KEY,
-  patient_id INT NOT NULL,
-  doctor_id INT NOT NULL,
-  exercise_id INT NOT NULL,
-  scheduled_days VARCHAR(40) NOT NULL,
-  duration_minutes INT NOT NULL,
-  notes VARCHAR(300),
-  FOREIGN KEY (patient_id) REFERENCES Patient(patient_id),
-  FOREIGN KEY (doctor_id) REFERENCES Doctor(doctor_id),
-  FOREIGN KEY (exercise_id) REFERENCES Exercise(exercise_id)
-);
 
-INSERT INTO PatientExercisePlan VALUES
-(401,201,101,301,'Mon,Wed,Fri',30,'Warm up 5 min; stop if sharp pain'),
-(402,202,102,302,'Tue,Thu,Sat',25,'Target RPE 6/10; focus on form');
-
--- 6) Session
+-- 5) Session
 CREATE TABLE Session (
   session_id INT PRIMARY KEY,
   patient_id INT NOT NULL,
@@ -119,7 +102,7 @@ INSERT INTO Session VALUES
 (501,201,101,301,'2025-10-24 10:15:00',28,86,'Form improving; minor shoulder elevation','s3://rehabedge/videos/201_20251024.mp4'),
 (502,202,102,302,'2025-10-25 09:05:00',24,91,'Good quad activation; hold times consistent',NULL);
 
--- 7) Notification
+-- 6) Notification
 CREATE TABLE Notification (
   notification_id INT PRIMARY KEY,
   patient_id INT NOT NULL,
@@ -134,7 +117,7 @@ INSERT INTO Notification VALUES
 (601,201,'Your rehab session is scheduled today at 10:00 AM.','Mobile','Sent','2025-10-24 09:30:00'),
 (602,202,'Missed session yesterday. Please complete today.','Email','Pending','2025-10-26 08:00:00');
 
--- 8) Report
+-- 7) Report
 CREATE TABLE Report (
   report_id INT PRIMARY KEY,
   patient_id INT NOT NULL,
@@ -152,7 +135,7 @@ INSERT INTO Report VALUES
 (701,201,101,'2025-10-26','Steady improvement in shoulder ROM; continue same plan','80,83,86',88,'https://app.rehabedge/reports/701'),
 (702,202,102,'2025-10-26','Knee stability progressing; consider progressing difficulty in 1 week','87,89,91',92,'https://app.rehabedge/reports/702');
 
--- 9) DataStorage
+-- 8) DataStorage
 CREATE TABLE DataStorage (
   storage_id INT PRIMARY KEY,
   backup_date DATETIME NOT NULL,
