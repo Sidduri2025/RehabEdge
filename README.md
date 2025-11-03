@@ -435,3 +435,17 @@ USE rehabedge;
 ## Seed Data Insertion:
 
 INSERT INTO DataStorage VALUES
+
+MySQL Installation Steps
+
+Go to the official download page:
+https://dev.mysql.com/downloads/installer
+Choose the correct installer:
+Download MySQL Installer for Windows.
+
+Click "No thanks, just start my download."
+
+Run the installer and select:
+Setup type: Developer Default (includes MySQL Server and MySQL Workbench)
+
+Click Next → Execute → Next to install dependencies.
