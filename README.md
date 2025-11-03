@@ -449,3 +449,12 @@ Run the installer and select:
 Setup type: Developer Default (includes MySQL Server and MySQL Workbench)
 
 Click Next → Execute → Next to install dependencies.
+
+During configuration:
+Keep Port 3306 (default)
+
+Set a root password (remember it. you'll need it later)
+
+Leave "Windows Service Name" as MySQL80
+
+Click Execute → Finish
