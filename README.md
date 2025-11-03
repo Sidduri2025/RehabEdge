@@ -431,3 +431,7 @@ Enter your MySQL root password and press Enter.
 
 CREATE DATABASE rehabedge;
 USE rehabedge;
+
+## Seed Data Insertion:
+
+INSERT INTO DataStorage VALUES
