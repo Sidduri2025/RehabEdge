@@ -458,3 +458,13 @@ Set a root password (remember it. you'll need it later)
 Leave "Windows Service Name" as MySQL80
 
 Click Execute → Finish
+
+Verify installation:
+Open Command Prompt
+
+Type:
+
+mysql -u root -p
+
+Enter your root password.
+If you see the mysql> prompt, MySQL is installed successfully.
