@@ -468,3 +468,5 @@ mysql -u root -p
 
 Enter your root password.
 If you see the mysql> prompt, MySQL is installed successfully.
+
+mysql -u root -p
