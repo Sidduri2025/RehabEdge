@@ -1,3 +1,4 @@
+
 # RehabEdge
 ## **Project Description** 
 
@@ -473,3 +474,5 @@ mysql -u root -p
 
 CREATE DATABASE rehabedge;
 USE rehabedge;
+
+mysql -u root -p rehabedge < "C:\Users\S578137\Downloads\seed_data_RehabEdge.sql"
