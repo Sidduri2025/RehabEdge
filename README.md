@@ -480,3 +480,5 @@ mysql -u root -p rehabedge < "C:\Users\S578137\Downloads\seed_data_RehabEdge.sql
 SHOW TABLES;
 SELECT COUNT(*) FROM Doctor;
 SELECT COUNT(*) FROM Patient;
+
+Confirmed database available with SHOW DATABASES;\
