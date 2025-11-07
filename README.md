@@ -484,3 +484,5 @@ SELECT COUNT(*) FROM Patient;
 Confirmed database available with SHOW DATABASES;\
 
 Switched into database using USE rehabedge;
+
+Ran CREATE DATABASE rehabedge;
