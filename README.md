@@ -482,3 +482,5 @@ SELECT COUNT(*) FROM Doctor;
 SELECT COUNT(*) FROM Patient;
 
 Confirmed database available with SHOW DATABASES;\
+
+Switched into database using USE rehabedge;
