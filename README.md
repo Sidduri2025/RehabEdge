@@ -486,3 +486,5 @@ Confirmed database available with SHOW DATABASES;\
 Switched into database using USE rehabedge;
 
 Ran CREATE DATABASE rehabedge;
+
+All tables created and data inserted successfully
