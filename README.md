@@ -491,3 +491,7 @@ All tables created and data inserted successfully
 
 Android (Java/Kotlin) –
 Used to develop the mobile application interface for patients and doctors. It allows users to log in, perform exercises, receive reminders, and view progress.
+
+MySQL Database –
+Used to store all system data such as patient details, doctor information, exercise records, session history, and notifications.
+Data types like INT and DATETIME ensure efficient storage of numeric and time-based data.
