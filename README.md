@@ -488,3 +488,6 @@ Switched into database using USE rehabedge;
 Ran CREATE DATABASE rehabedge;
 
 All tables created and data inserted successfully
+
+Android (Java/Kotlin) –
+Used to develop the mobile application interface for patients and doctors. It allows users to log in, perform exercises, receive reminders, and view progress.
