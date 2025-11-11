@@ -495,3 +495,6 @@ Used to develop the mobile application interface for patients and doctors. It al
 MySQL Database –
 Used to store all system data such as patient details, doctor information, exercise records, session history, and notifications.
 Data types like INT and DATETIME ensure efficient storage of numeric and time-based data.
+
+HTML, CSS, and JavaScript –
+Used for creating the web-based dashboard interface for doctors and administrators. These technologies help visualize reports and manage patient information easily.
