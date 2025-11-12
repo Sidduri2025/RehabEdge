@@ -498,3 +498,6 @@ Data types like INT and DATETIME ensure efficient storage of numeric and time-ba
 
 HTML, CSS, and JavaScript –
 Used for creating the web-based dashboard interface for doctors and administrators. These technologies help visualize reports and manage patient information easily.
+
+AI and Machine Learning (Edge AI) –
+Integrated for analyzing patient posture during exercise sessions using real-time camera input and providing corrective feedback.
