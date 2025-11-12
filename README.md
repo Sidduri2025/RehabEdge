@@ -504,3 +504,6 @@ Integrated for analyzing patient posture during exercise sessions using real-tim
 
 ## Patient Reminder System
 A way to remind patients. The main purpose of this prototype is to help patients stay with their treatment. The mobile app will send daily reminders for exercises, which can be changed to fit the patient's schedule. The goal is to make sure that patients don't miss sessions and can keep to a regular schedule.
+
+## Dashboard
+A dashboard on the web that shows doctors how their patients are doing over time. Doctors will be able to see weekly exercise scores, check to see if each exercise was done, and look at trends to help them make smart choices about how to help patients recover.
