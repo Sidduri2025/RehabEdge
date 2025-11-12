@@ -501,3 +501,6 @@ Used for creating the web-based dashboard interface for doctors and administrato
 
 AI and Machine Learning (Edge AI) –
 Integrated for analyzing patient posture during exercise sessions using real-time camera input and providing corrective feedback.
+
+## Patient Reminder System
+A way to remind patients. The main purpose of this prototype is to help patients stay with their treatment. The mobile app will send daily reminders for exercises, which can be changed to fit the patient's schedule. The goal is to make sure that patients don't miss sessions and can keep to a regular schedule.
