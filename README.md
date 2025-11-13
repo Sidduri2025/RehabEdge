@@ -507,3 +507,6 @@ A way to remind patients. The main purpose of this prototype is to help patients
 
 ## Dashboard
 A dashboard on the web that shows doctors how their patients are doing over time. Doctors will be able to see weekly exercise scores, check to see if each exercise was done, and look at trends to help them make smart choices about how to help patients recover.
+
+## Doctor Login and Patient Management
+Logging in as a doctor and taking care of patients. A secure way for doctors to log in and keep track of more than one patient at a time. Doctors can give personalized advice by looking at patient profiles, their exercise history, and patterns in how they do things.
