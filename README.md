@@ -525,3 +525,11 @@ It provides instant accuracy scores and feedback for improvement.
 Real-time AI pose estimation.
 Accuracy scoring system.
 Saves posture results for doctor review.
+
+## 6. Reporting and Analytics
+Generates detailed performance summaries and trends for both doctors and patients.
+
+## Key Features
+Weekly or monthly visual progress charts.
+Summary reports showing improvement over time.
+Exportable reports for tracking recovery.
