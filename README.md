@@ -516,3 +516,12 @@ Patients can share progress reports with caregivers or family members to encoura
 ## Key Features
 Share reports securely via link or email.
 Control access and revoke sharing anytime.
+
+## 5. AI Posture Analysis Module
+The app uses AI to detect and evaluate patient posture through the phone’s camera.
+It provides instant accuracy scores and feedback for improvement.
+
+## Key Features
+Real-time AI pose estimation.
+Accuracy scoring system.
+Saves posture results for doctor review.
