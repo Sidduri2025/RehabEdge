@@ -533,3 +533,12 @@ Generates detailed performance summaries and trends for both doctors and patient
 Weekly or monthly visual progress charts.
 Summary reports showing improvement over time.
 Exportable reports for tracking recovery.
+
+## 7. Patient Appointment Booking
+Allows patients to schedule follow-up or virtual consultations with their doctor.
+
+* Key Features
+
+View available appointment slots.
+Request and confirm bookings.
+Appointment history tracking.
