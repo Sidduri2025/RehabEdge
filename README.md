@@ -510,3 +510,9 @@ A dashboard on the web that shows doctors how their patients are doing over time
 
 ## Doctor Login and Patient Management
 Logging in as a doctor and taking care of patients. A secure way for doctors to log in and keep track of more than one patient at a time. Doctors can give personalized advice by looking at patient profiles, their exercise history, and patterns in how they do things.
+
+## 8. Progress Sharing
+Patients can share progress reports with caregivers or family members to encourage motivation and support.
+## Key Features
+Share reports securely via link or email.
+Control access and revoke sharing anytime.
